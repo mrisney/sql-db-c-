@@ -49,4 +49,4 @@ This README provides an overview of the relational database system. For detailed
 ---
 
 ## Additional Resources
-- For basic testing of the database system, refer to the test file: [basic_test.cpp](src/_tests/_test_files/basic_test.cpp)
+- For basic testing of the database system, refer to the test file: [basic_test.cpp](_tests/_test_files/basic_test.cpp)
